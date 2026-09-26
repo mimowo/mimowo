@@ -1,8 +1,8 @@
 ## Hi, I'm Michał 👋
 
-I like solving problems through small, focused changes. KISS and YAGNI guide how I keep things simple.
+I'm a Kueue maintainer and an approver for the Kubernetes Job controller.
 
-In Kueue, I focus on fast feedback, readable code, and making it easier for people to contribute.
+I like small changes, fast feedback, and code that’s easy to read and contribute to. KISS and YAGNI guide my approach.
 
 <details>
 <summary>Unsuspend </summary>
