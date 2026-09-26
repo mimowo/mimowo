@@ -5,7 +5,7 @@ I like solving problems through small, focused changes. KISS and YAGNI guide how
 In Kueue, I focus on fast feedback, readable code, and making it easier for people to contribute.
 
 <details>
-<summary>Schedule the Job 🐍</summary>
+<summary>Unsuspend the snake 🐍 </summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mimowo/mimowo/output/snake-dark.svg">
