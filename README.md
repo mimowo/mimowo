@@ -5,7 +5,7 @@ I'm a Kueue maintainer and an approver for the Kubernetes Job controller.
 I like small changes, fast feedback, and code that’s easy to read and contribute to. KISS and YAGNI guide my approach.
 
 <details>
-<summary>Unsuspend </summary>
+<summary>Unsuspend 🐍</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mimowo/mimowo/output/snake-dark.svg">
